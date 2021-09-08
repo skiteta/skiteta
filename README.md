@@ -3,6 +3,9 @@
 * 💻 Job: Machine Learning Engineer
   - CNN
     - Monocular Depth Estimation
+    - Pose Estimation
+    - Object Detection
+    - Object Tracking
   - Bayesian Network
     - Recomendation
 
