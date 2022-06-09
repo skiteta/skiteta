@@ -8,6 +8,8 @@
     - Object Tracking
   - Bayesian Network
     - Recomendation
+  - NLP
+    - Text generation
 
 # GitHub Stats
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=skiteta&theme=gotham&count_private=true)
